@@ -1,5 +1,5 @@
 .left-side-wrapper {
-    background: url(https://thewallpaper.co//wp-content/uploads/2017/10preview/sunset-beach-bright-backgrounds-orange-colourful-clouds-sky-night-stock-images-rocks-bay-tablet-view-lilac.jpg) no-repeat !important;
+    background: url(https://images.wallpaperscraft.com/image/trees_nature_night_planet_birds_landscape_20199_1920x1440.jpg) no-repeat !important;
     background-size: cover !important;
 }
 #user-rollover
@@ -9,4 +9,20 @@
 #user-rollover .info
 {
     background-color: rgba(30, 33, 39, 0.4) !important;
+}
+.community-bottom
+{
+    background: linear-gradient(0deg, rgba(121,9,51,1) 0%, rgba(2,0,36,1) 100%) !important;
+}
+.community__playlist--desktop
+{
+    background: inherit;
+}
+.bottom__playback-meta
+{
+    background: inherit;
+}
+.bottom__playback-controls
+{
+    background: inherit;
 }
