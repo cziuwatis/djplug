@@ -14,7 +14,7 @@
 .nav-left__item.selected,
 .nav-left__item.selected i
 {
-    color:#b611c4;
+    color:#b611c4 !important;
 }
 .nav-left__item.selected
 {
@@ -22,7 +22,7 @@
 }
 .community__top
 {
-    background:none;
+    background:none !important;
 }
 .community__left-nav
 {
