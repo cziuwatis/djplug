@@ -39,6 +39,12 @@
         "subscriber": null,
         "silversubscriber": null
     },
+    "autocomplete": {
+        "!host": {
+            "role": 5,
+            "icon": "https://cdn.radiant.dj/rcs/emotes/img/orilurk.png"
+        }
+    }
     "emotes": {
     	"isaac_cry": "https://img.favpng.com/12/24/11/twitch-emote-video-game-amazon-com-gameplay-png-favpng-pVBxgKRGk1mhsqqXWiPdxBgGD.jpg"
     }
