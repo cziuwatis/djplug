@@ -33,12 +33,12 @@
 }
 .room-controls--desktop-btn
 {
-    color: purple;
+    color: purple !important;
     transition-duration: .3s;
 }
 .room-controls--desktop-btn:hover
 {
-    color: #7f17b0;
+    color: #7f17b0 !important;
 }
 
 .community__right-bar
