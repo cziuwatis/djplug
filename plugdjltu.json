@@ -2,7 +2,7 @@
     "room": "Ltu_Kolee",
     "author": "cziuwatis",
     "icon": null,
-    "css": "plug.css",
+    "css": "https://cziuwatis.github.io/djplug/plug.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
