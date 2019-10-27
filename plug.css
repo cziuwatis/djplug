@@ -10,6 +10,11 @@
 {
     background-color: rgba(30, 33, 39, 0.4) !important;
 }
+.community__name,
+.nav-left__item.selected
+{
+    color:#b611c4;
+}
 .community__top
 {
     background:none;
