@@ -31,3 +31,8 @@
     border: 2px solid purple;
     background-color: rgba(0,0,0,.5);
 }
+.room-controls--desktop-btn
+{
+    color: purple;
+    transition-duration: .3s;
+}
