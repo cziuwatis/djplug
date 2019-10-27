@@ -36,3 +36,7 @@
     color: purple;
     transition-duration: .3s;
 }
+.room-controls--desktop-btn:hover
+{
+    color: #7f17b0;
+}
