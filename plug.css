@@ -26,4 +26,8 @@
 {
     background: inherit;
 }
-
+.room-controls--desktop.room-vote--desktop
+{
+    border: 2px solid purple;
+    background-color: rgba(0,0,0,.5);
+}
