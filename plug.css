@@ -1,3 +1,4 @@
-.room-background {
-    background: url(https://images-na.ssl-images-amazon.com/images/I/71e-ndFLn9L._SX425_.jpg) cover no-repeat !important;
+.left-side-wrapper {
+    background: url(https://images-na.ssl-images-amazon.com/images/I/71e-ndFLn9L._SX425_.jpg) no-repeat !important;
+    background-size: cover !important;
 }
