@@ -55,5 +55,5 @@
 #chat-messages .from i
 {
     background-size: 15px !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
 }
