@@ -6,3 +6,7 @@
 {
     background-color: rgba(30, 33, 39, 0.7) !important;
 }
+#user-rollover .info
+{
+    background-color: rgba(30, 33, 39, 0.4) !important;
+}
