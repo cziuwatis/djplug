@@ -71,6 +71,10 @@
     background-size: 50% !important;
     background-position: center !important;
 }
+.community .community__top-right
+{
+    right: 345px;
+}
 #chat-messages
 {
     background-color: rgba(0,0,0, .6);
