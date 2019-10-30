@@ -66,7 +66,8 @@
 
 .community__right-bar
 {
-    background: url(https://cdn1.iconfinder.com/data/icons/nature-life-in-color/128/marijuana-c-512.png) !important;
+    /**background: url(https://cdn1.iconfinder.com/data/icons/nature-life-in-color/128/marijuana-c-512.png) !important;**/
+    background-color: rgba(0,0,0, .7) !important;
     background-repeat: no-repeat !important;
     background-size: 50% !important;
     background-position: center !important;
