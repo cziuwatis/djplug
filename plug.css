@@ -90,3 +90,9 @@
     color: gold;
     font-size: .6em;
 }
+#user-rollover.role-cohost .username::after
+{
+    content: "[keule]";
+    color: gold;
+    font-size: .6em;
+}
