@@ -91,11 +91,13 @@
 }
 #user-rollover.role-host .username::after
 {
-    content: "[boss]";
+    content: " [boss]";
     color: gold;
+    font-size: .8em;
 }
 #user-rollover.role-cohost .username::after
 {
-    content: "[keule]";
+    content: " [keule]";
     color: gold;
+    font-size: .8em;
 }
