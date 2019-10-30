@@ -86,6 +86,7 @@
 }
 #user-rollover.role-host .username::after
 {
-    content: "<sub>[boss]</sub>";
+    content: "[boss]";
     color: gold;
+    font-size: .6em;
 }
