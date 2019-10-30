@@ -84,3 +84,8 @@
 {
     box-shadow: inset 0 0 0 1px #7a1079 !important;
 }
+#user-rollover.role-host .username::after
+{
+    content: "<sub>[boss]</sub>";
+    color: gold;
+}
