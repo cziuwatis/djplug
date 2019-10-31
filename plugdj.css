@@ -3318,3 +3318,8 @@ transform: none;
 {
     background-color: rgba(0,0,0, .6);
 }
+.community .community__info .fa,
+.nav-left__item-icon
+{
+	color: #00c6ff;
+}
