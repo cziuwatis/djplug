@@ -3269,3 +3269,19 @@ transform: none;
 .community .community__song-playing-progress .progress{
 	background-color: #4b4b4b;
 }
+.community__bottom
+{
+    background: linear-gradient(0deg, rgba(121,9,51,1) 0%, rgba(2,0,36,1) 100%) !important;
+}
+.community__playlist--desktop
+{
+    background: inherit;
+}
+.bottom__playback-meta
+{
+    background: inherit;
+}
+.bottom__playback-controls
+{
+    background: inherit;
+}
