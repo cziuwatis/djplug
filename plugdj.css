@@ -3320,7 +3320,7 @@ transform: none;
 }
 .community .community__info .fa,
 .nav-left__item-icon,
-#header-panel-bar.right-meta #chat-button i
+.header-panel-button
 {
 	color: #00c6ff;
 }
