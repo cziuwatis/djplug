@@ -3329,7 +3329,7 @@ transform: none;
 ,
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover
 {
-	background-color: #00c6ff;
+	background-color: #00c6ff !important;
 }
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom
 {
