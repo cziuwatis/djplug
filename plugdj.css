@@ -3321,7 +3321,17 @@ transform: none;
 .community .community__info .fa,
 .nav-left__item-icon,
 .header-panel-button,
-#waitlist-button .count
+#waitlist-button .count,
+.community__playlist--desktop[data-song] .icon-playlist
 {
 	color: #00c6ff;
+}
+,
+.btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover
+{
+	background-color: #00c6ff;
+}
+.btn-no-dj-secondary.btn-no-dj-secondary__bottom
+{
+	background-color: #00c6ffab;
 }
