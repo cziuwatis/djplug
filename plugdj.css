@@ -3327,10 +3327,12 @@ transform: none;
 	color: #00c6ff;
 }
 ,
+.btn-no-dj-primary.btn-no-dj-secondary__bottom:hover,
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover
 {
 	background-color: #00c6ff !important;
 }
+.btn-no-dj-primary.btn-no-dj-secondary__bottom,
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom
 {
 	background-color: #00c6ffab;
