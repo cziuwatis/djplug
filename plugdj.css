@@ -3320,7 +3320,8 @@ transform: none;
 }
 .community .community__info .fa,
 .nav-left__item-icon,
-.header-panel-button
+.header-panel-button,
+#waitlist-button .count
 {
 	color: #00c6ff;
 }
