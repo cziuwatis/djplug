@@ -3343,7 +3343,7 @@ transform: none;
 {
 	border-color: #00c6ff;
 }
-#search-bar
+#search-bar, .app-right .friends .list-header .input-background, #user-lists .list-header .input-background, #dashboard .search, #rcs-menu .search, #filter-bar, #user-friends .search
 {
 	box-shadow: inset 0 0 0 1px #00c6ff !important;
 }
