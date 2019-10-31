@@ -3269,6 +3269,14 @@ transform: none;
 .community .community__song-playing-progress .progress{
 	background-color: #4b4b4b;
 }
+.community__top
+{
+    background:none !important;
+}
+.community__left-nav
+{
+    background:none;
+}
 .community__bottom
 {
     background: linear-gradient(0deg, rgba(121,9,51,1) 0%, rgba(2,0,36,1) 100%) !important;
@@ -3284,4 +3292,29 @@ transform: none;
 .bottom__playback-controls
 {
     background: inherit;
+}
+.left-side-wrapper {
+    background: url(https://images.wallpaperscraft.com/image/trees_nature_night_planet_birds_landscape_20199_1920x1440.jpg) no-repeat !important;
+    background-size: cover !important;
+    width: 100% !important;
+}
+.left-side-wrapper-inner
+{
+    width: 80%;
+}
+.community__right-bar
+{
+    /**background: url(https://cdn1.iconfinder.com/data/icons/nature-life-in-color/128/marijuana-c-512.png) !important;**/
+    background-color: rgba(0,0,0, .7) !important;
+    background-repeat: no-repeat !important;
+    background-size: 50% !important;
+    background-position: center !important;
+}
+.community .community__top-right
+{
+    right: 345px;
+}
+#chat-messages
+{
+    background-color: rgba(0,0,0, .6);
 }
