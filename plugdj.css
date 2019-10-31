@@ -3279,19 +3279,19 @@ transform: none;
 }
 .community__bottom
 {
-    background: linear-gradient(0deg, rgba(121,9,51,1) 0%, rgba(2,0,36,1) 100%) !important;
+    background: background-color: rgba(0,0,0, .7) !important;
 }
 .community__playlist--desktop
 {
-    background: inherit;
+    background: none;
 }
 .bottom__playback-meta
 {
-    background: inherit;
+    background: none;
 }
 .bottom__playback-controls
 {
-    background: inherit;
+    background: none;
 }
 .left-side-wrapper {
     background: url(https://images.wallpaperscraft.com/image/trees_nature_night_planet_birds_landscape_20199_1920x1440.jpg) no-repeat !important;
