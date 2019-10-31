@@ -3322,7 +3322,9 @@ transform: none;
 .nav-left__item-icon,
 .header-panel-button,
 #waitlist-button .count,
-.community__playlist--desktop[data-song] .icon-playlist
+.community__playlist--desktop[data-song] .icon-playlist,
+#playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active > i,
+#playlist-panel.playlist--override #playlist-menu .menu .row .activate-button i.active
 {
 	color: #00c6ff;
 }
@@ -3336,4 +3338,12 @@ transform: none;
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom
 {
 	background-color: #00c6ffab;
+}
+#playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active
+{
+	border-color: #00c6ff;
+}
+#search-bar
+{
+	box-shadow: inset 0 0 0 1px #00c6ff !important;
 }
