@@ -3319,7 +3319,8 @@ transform: none;
     background-color: rgba(0,0,0, .6);
 }
 .community .community__info .fa,
-.nav-left__item-icon
+.nav-left__item-icon,
+#header-panel-bar.right-meta #chat-button i
 {
 	color: #00c6ff;
 }
