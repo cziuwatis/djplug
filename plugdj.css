@@ -3343,5 +3343,6 @@ transform: none;
 }
 #chat-messages .id-13505285 .badge-box i.bdg
 {
-	background-image: url('http://giphygifs.s3.amazonaws.com/media/d0EfbjO1h8ali/giphy.gif');
+	background-image: url('http://giphygifs.s3.amazonaws.com/media/d0EfbjO1h8ali/giphy.gif') !important;
+        background-size:        cover;
 }
