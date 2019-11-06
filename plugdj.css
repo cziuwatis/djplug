@@ -3349,7 +3349,7 @@ transform: none;
 //Pohoine ikonke/badge
 #chat-messages .id-3877065 .badge-box i.bdg
 {
-        background-image:       url('https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/marijuana-circle-green-512.png');
+        background-image:       url(https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/marijuana-circle-green-512.png) !important;
         background-size:        cover;
 }
 
