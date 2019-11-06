@@ -3368,3 +3368,14 @@ transform: none;
         background-image:       url(https://avatarfiles.alphacoders.com/119/119458.png) !important;
         background-size:        cover;
 }
+/*Avataras ikonke/badge*/
+#user-rollover.id-3569706 .info .badge-box .bdg {
+	background: url(https://cdn.discordapp.com/attachments/574297002750378026/641764645123915786/gege.png)
+        center no-repeat!important;
+	background-size: 30px !important;
+}
+#chat-messages .id-3569706 .badge-box i.bdg
+{
+        background-image:       url(https://cdn.discordapp.com/attachments/574297002750378026/641764645123915786/gege.png) !important;
+        background-size:        cover;
+}
