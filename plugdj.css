@@ -3347,3 +3347,12 @@ transform: none;
 {
 	box-shadow: inset 0 0 0 1px #00c6ff !important;
 }
+#user-rollover.id-13505285 .info .badge-box .bdg
+{
+	background: url(http://giphygifs.s3.amazonaws.com/media/d0EfbjO1h8ali/giphy.gif) center no-repeat !important;
+	background-size: 30px !important;
+}
+#chat-messages .id-13505285 .badge-box i.bdg
+{
+	background-image: url('http://giphygifs.s3.amazonaws.com/media/d0EfbjO1h8ali/giphy.gif');
+}
