@@ -3357,3 +3357,14 @@ transform: none;
         background-image:       url(https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/marijuana-circle-green-512.png) !important;
         background-size:        cover;
 }
+/*cziuwatis ikonke/badge*/
+#user-rollover.id-28896437 .info .badge-box .bdg {
+	background: url(https://avatarfiles.alphacoders.com/119/119458.png)
+        center no-repeat!important;
+	background-size: 30px !important;
+}
+#chat-messages .id-28896437 .badge-box i.bdg
+{
+        background-image:       url(https://avatarfiles.alphacoders.com/119/119458.png) !important;
+        background-size:        cover;
+}
