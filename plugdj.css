@@ -3368,14 +3368,3 @@ transform: none;
         background-image:       url(https://avatarfiles.alphacoders.com/119/119458.png) !important;
         background-size:        cover;
 }
-/*Avataras ikonke/badge*/
-#user-rollover.id-3569706 .info .badge-box .bdg {
-	background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/1200px-Yin_yang.svg.png)
-        center no-repeat!important;
-	background-size: 30px !important;
-}
-#chat-messages .id-3569706 .badge-box i.bdg
-{
-        background-image:       url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/1200px-Yin_yang.svg.png) !important;
-        background-size:        cover;
-}
