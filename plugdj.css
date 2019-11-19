@@ -3368,3 +3368,14 @@ transform: none;
         background-image:       url(https://avatarfiles.alphacoders.com/119/119458.png) !important;
         background-size:        cover;
 }
+/*Koste's ikonke*/
+#user-rollover.id-4044260 .info .badge-box .bdg {
+	background: url(https://i.kym-cdn.com/photos/images/original/001/479/169/c57.gif)
+        center no-repeat!important;
+	background-size: 30px !important;
+}
+#chat-messages .id-4044260 .badge-box i.bdg
+{
+        background-image:       url(https://i.kym-cdn.com/photos/images/original/001/479/169/c57.gif) !important;
+        background-size:        cover;
+}
