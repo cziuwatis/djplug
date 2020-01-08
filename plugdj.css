@@ -3282,9 +3282,9 @@ transform: none;
     background-color: transparent !important;
 }
 .left-side-wrapper {
-    /**background: url(https://images.wallpaperscraft.com/image/trees_nature_night_planet_birds_landscape_20199_1920x1440.jpg) no-repeat !important;**/
+    background: url(https://images.wallpaperscraft.com/image/trees_nature_night_planet_birds_landscape_20199_1920x1440.jpg) no-repeat !important;
     /**background: url(https://i.imgur.com/k0cpWEq.jpg) no-repeat !important;**/
-    background: url(https://i.imgur.com/nxVz9Jb.jpg) no-repeat !important;
+    /**background: url(https://i.imgur.com/nxVz9Jb.jpg) no-repeat !important;**/
     /**background-size: cover !important;**/
     background-size: 100% 100% !important;
     width: 100% !important;
