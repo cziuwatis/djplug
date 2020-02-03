@@ -3397,3 +3397,9 @@ transform: none;
 {
 	color: #00c6ff;
 }
+
+/**user-profile-dropdown**/
+.user-profile-dropdown
+{
+	background-color: rgba(0,0,0,.7);
+}
