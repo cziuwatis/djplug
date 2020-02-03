@@ -3403,3 +3403,16 @@ transform: none;
 {
 	background-color: rgba(0,0,0,.7);
 }
+
+.rs-flat-table.community-profile
+{
+	background-color: rgba(0,0,0,.7);
+	margin-left: -7%;
+}
+
+.user-level-dropdown
+{
+	background-color: rgba(0,0,0,.7);
+}
+
+
