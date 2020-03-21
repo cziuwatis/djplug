@@ -3294,6 +3294,8 @@ transform: none;
 .left-side-wrapper-inner
 {
     width: 80%;
+    background-repeat: no-repeat;
+    background-position-x: 49.5%;
 }
 .community__right-bar
 {
