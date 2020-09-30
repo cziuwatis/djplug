@@ -3426,7 +3426,7 @@ transform: none;
 #user-rollover.role-cohost div.role span
 {
 	color: #d22ee8 !important;
-	text-shadow: 0px 0px 8px #d22ee8a1;
+	text-shadow: 0px 0px 8px #d22ee87d;
 }
 /*host username color*/
 .role-host .from span.un,
