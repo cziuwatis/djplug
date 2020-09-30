@@ -3420,14 +3420,20 @@ transform: none;
 {
 	background-color: rgba(0,0,0,.7);
 }
-/*host username color*/
-.role-host .from span.un
-{
-	color: #ded710 !important;
-}
 /*co-host username color*/
-.role-cohost .from span.un
+.role-cohost .from span.un,
+#user-rollover.role-cohost span.username,
+#user-rollover.role-cohost div.role span
 {
 	color: #d22ee8 !important;
+	text-shadow: 0px 0px 8px #d22ee8a1;
+}
+/*host username color*/
+.role-host .from span.un,
+#user-rollover.role-host span.username,
+#user-rollover.role-host div.role span
+{    
+	color: #ffe300 !important;
+        text-shadow: 0px 0px 8px #ffe30066;
 }
 
