@@ -2045,7 +2045,8 @@ width: 100%;
 	background-position: -1px 0 !important;
 }
 .icon-chat-subscriber + span {
-	color: #dd7a44 !important;
+	/*color: #dd7a44 !important;*/
+	color: #ed8013 !important;
 }
 .icon-chat-silver-subscriber + span {
     color: #a1a6b3 !important;
@@ -3419,5 +3420,14 @@ transform: none;
 {
 	background-color: rgba(0,0,0,.7);
 }
-
+/*host username color*/
+.role-host .from .un
+{
+	color: #ded710 !important;
+}
+/*co-host username color*/
+.role-cohost .from .un
+{
+	color: #d22ee8 !important;
+}
 
