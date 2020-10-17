@@ -3313,7 +3313,7 @@ transform: none;
 }
 #chat-messages
 {
-    background-color: rgba(0,0,0, .6);
+    /**background-color: rgba(0,0,0, .6);**/
 }
 .community .community__info .fa,
 .nav-left__item-icon,
