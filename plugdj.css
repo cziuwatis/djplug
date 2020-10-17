@@ -2152,7 +2152,7 @@ i.bdg.large.bdg-animal-o10.o{
     margin-top: 1px;
 }
 #chat .message,#chat .mention,#chat .skip,#chat .moderation,#chat .emote,#chat .update,#chat .welcome {
-    background-color: rgba(0, 0, 0, 0.40);
+    background-color: rgba(0, 0, 0, 0.20);
     -webkit-animation:fadein 0.25s;
     -moz-animation:fadein 0.25s;
     -ms-animation:fadein 0.25s;
