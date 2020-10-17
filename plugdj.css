@@ -3397,6 +3397,8 @@ transform: none;
 .community .room-controls--desktop
 {
 	border-color: #00c6ff;
+	border: 0;
+	background: 0;
 }
 /**bottom bar right icons**/
 .bottom__playback-controls--desktop i
