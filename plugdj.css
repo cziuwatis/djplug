@@ -3326,7 +3326,6 @@ transform: none;
 {
 	color: #00c6ff;
 }
-,
 .btn-no-dj-primary.btn-no-dj-secondary__bottom:hover,
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover
 {
@@ -3335,7 +3334,8 @@ transform: none;
 .btn-no-dj-primary.btn-no-dj-secondary__bottom,
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom
 {
-	background-color: #00c6ffab;
+	/**background-color: #00c6ffab;**/
+	background-color:rgba(0,0,0,.25);
 }
 #playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active
 {
@@ -3392,7 +3392,7 @@ transform: none;
 /**Video container**/
 .community .community__playing
 {
-	border-top: 5px #16c2de ridge;
+	/**border-top: 5px #16c2de ridge;**/
 }
 /**woot/meh container*/
 .community .room-controls--desktop
