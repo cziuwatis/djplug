@@ -3450,3 +3450,10 @@ transform: none;
 	color: #00c6ff;
 	opacity: .8;
 }
+/**remove black borders when border removed around video by removing background of containers**/
+.community .community__playing-top,
+.community .community__playing-top iframe html body{
+	background-color: none;
+}
+
+
