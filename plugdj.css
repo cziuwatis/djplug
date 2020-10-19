@@ -1995,7 +1995,8 @@ width: 100%;
 	display: none;
 }
 #playback .background {
-	background: url(https://nightbloo.github.io/plug/background/nb3DJvideo.png) 0 0 / cover no-repeat;
+	/**background: url(https://nightbloo.github.io/plug/background/nb3DJvideo.png) 0 0 / cover no-repeat;**/
+	background: none;
 
 	width: 874px; height: 329px;
 	left: -196px; top: 0;
