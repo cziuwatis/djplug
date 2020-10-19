@@ -3299,7 +3299,7 @@ transform: none;
     width: 80%;
     background-repeat: no-repeat;
     background-position-x: 49.5%;
-    background: none;
+    background: none !important;
 }
 .community__right-bar
 {
