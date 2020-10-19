@@ -3330,7 +3330,9 @@ transform: none;
 .btn-no-dj-primary.btn-no-dj-secondary__bottom:hover,
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover
 {
-	background-color: #00c6ff !important;
+	/**background-color: #00c6ff !important;**/
+	background-color: #00c6ff8c !important;
+	
 }
 .btn-no-dj-primary.btn-no-dj-secondary__bottom,
 .btn-no-dj-secondary.btn-no-dj-secondary__bottom
