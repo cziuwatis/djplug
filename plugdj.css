@@ -3370,6 +3370,18 @@ transform: none;
         background-image:       url(https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2/128/marijuana-circle-green-512.png) !important;
         background-size:        cover;
 }*/
+/*Tomas ikonke*/
+#user-rollover.id-3569706 .info .badge-box .bdg {
+	background: url(https://media.giphy.com/media/tyttpGVxLI8rMGhS2uk/giphy.gif)
+        center no-repeat!important;
+	background-size: 30px !important;
+}
+#chat-messages .id-3569706 .badge-box i.bdg
+{
+        background-image:       url(https://media.giphy.com/media/tyttpGVxLI8rMGhS2uk/giphy.gif) !important;
+        background-size:        cover;
+	background-position-x: center;
+}
 /*cziuwatis ikonke/badge*/
 #user-rollover.id-28896437 .info .badge-box .bdg {
 	background: url(https://avatarfiles.alphacoders.com/119/119458.png)
@@ -3383,14 +3395,15 @@ transform: none;
 }
 /* Aurimakas ikonke*/
 #user-rollover.id-51637215 .info .badge-box .bdg {
-	background: url(https://i.imgur.com/JOkVWvX.png)
+	background: url(https://media1.tenor.com/images/a191055d42f028c1ca106a9fd547cb44/tenor.gif)
         center no-repeat!important;
 	background-size: 30px !important;
 }
 #chat-messages .id-51637215 .badge-box i.bdg
 {
-        background-image:       url(https://i.imgur.com/JOkVWvX.png) !important;
-        background-size:        contain;
+        background-image:       url(https://media1.tenor.com/images/a191055d42f028c1ca106a9fd547cb44/tenor.gif) !important;
+        background-size:        cover;
+	background-position-x: center;
 }
 /*Koste's ikonke*/
 #user-rollover.id-4044260 .info .badge-box .bdg {
