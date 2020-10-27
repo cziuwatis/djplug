@@ -3379,8 +3379,8 @@ transform: none;
 #chat-messages .id-3569706 .badge-box i.bdg
 {
         background-image:       url(https://media.giphy.com/media/tyttpGVxLI8rMGhS2uk/giphy.gif) !important;
-        background-size:        cover;
-	background-position-x: center;
+        background-size:        cover !important;
+	background-position-x: center !important;
 }
 /*cziuwatis ikonke/badge*/
 #user-rollover.id-28896437 .info .badge-box .bdg {
@@ -3402,8 +3402,8 @@ transform: none;
 #chat-messages .id-51637215 .badge-box i.bdg
 {
         background-image:       url(https://media1.tenor.com/images/a191055d42f028c1ca106a9fd547cb44/tenor.gif) !important;
-        background-size:        cover;
-	background-position-x: center;
+        background-size:        cover !important;
+	background-position-x: center !important;
 }
 /*Koste's ikonke*/
 #user-rollover.id-4044260 .info .badge-box .bdg {
