@@ -3384,14 +3384,14 @@ transform: none;
 }
 /* Dragon Queen Vasares ikonke*/
 #user-rollover.id-4105241 .info .badge-box .bdg {
-	background: url(https://cdn5-images.motherlessmedia.com/images/B033530.gif)
+	background: url(https://media3.giphy.com/media/hfZ9oWRkkZ9YY/giphy.gif)
         center no-repeat!important;
 	background-size: 30px !important;
 }
 #chat-messages .id-4105241 .badge-box i.bdg
 {
-        background-image:       url(https://cdn5-images.motherlessmedia.com/images/B033530.gif) !important;
-        background-size:        5em !important;
+        background-image:       url(https://media3.giphy.com/media/hfZ9oWRkkZ9YY/giphy.gif) !important;
+        background-size:        cover !important;
 	background-position-x: center !important;
 }
 /*Tomas ikonke*/
